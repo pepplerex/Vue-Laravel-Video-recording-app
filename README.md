@@ -2,6 +2,8 @@
 
 A simple dahboard UI written with VUE JS with a mock backend.
 
+![appImage](https://github.com/pepplerex/Vue-Laravel-Video-recording-app/assets/107540519/94c4af74-76ad-4591-98f8-35072f2a2ec5)
+
 # Getting started
 
 - clone repo to your machine
@@ -12,5 +14,5 @@ A simple dahboard UI written with VUE JS with a mock backend.
 # Server
 Uses vite server accesible on http://localhost:5173
 
-![appImage](https://github.com/pepplerex/Vue-Laravel-Video-recording-app/assets/107540519/94c4af74-76ad-4591-98f8-35072f2a2ec5)
+
 
