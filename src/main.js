@@ -1,6 +1,6 @@
 import { createApp } from "vue";
 import { createRouter, createWebHistory } from "vue-router";
-import "./App.css";
+import "./App.less";
 import Dashboard from "./view/App.vue";
 import App from "./App.vue";
 
